@@ -2,7 +2,7 @@
 # The build and install scripts read it; you can also `source` it in a shell.
 
 # ---- your setup ------------------------------------------------------------
-export TV_IP=192.168.1.50                 # your TV's address on the home network
+export TV_IP=192.168.1.41                 # your TV's address on the home network
 export PROFILE=GlassHome                  # name for your Samsung signing profile
 export SKILLS="$HOME/tizen-agent-skills/tizen-sdk-skills"   # git clone of Samsung/tizen-agent-skills
 export DUID=                              # your TV's device ID (docs/INSTALL.md, step 5)
